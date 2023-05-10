@@ -4,6 +4,6 @@ void setup(){
 }
 
 void draw(){
-  background(253, 180, 191);
+  background(253, 180, 190);
   
 }
