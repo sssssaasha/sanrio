@@ -8,11 +8,7 @@ void draw(){
   
 }
 
-
-
-
-
-
+// nao ta funcionando mas dps eu vejo o pq
 
 import ketai.camera.*;
 import ketai.cv.facedetector.*;
